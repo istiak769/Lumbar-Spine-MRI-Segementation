@@ -19,5 +19,5 @@ Dice Co-efficient: 97.11
 ## Authors
 
 
- [**Istiak Ahmed**](github.com/istiak769)) | [**Md. Tanzim Hossain**](https://github.com/tanzimhossain) | [**Md. Zahirul Islam Nahid**](https://github.com/zahirul-islam) | [**Kazi Shahriar Sanjid**](https://github.com/shahriar-sanjid)
+ [**Istiak Ahmed**](github.com/istiak769) | [**Md. Tanzim Hossain**](https://github.com/tanzimhossain) | [**Md. Zahirul Islam Nahid**](https://github.com/zahirul-islam) | [**Kazi Shahriar Sanjid**](https://github.com/shahriar-sanjid)
  |[**Md. Shakib Shahariar Junayed**](https://github.com/shakib-junayed) | [**M. Monir Uddin**](https://www.northsouth.edu/faculty-members/seps/mathematics-physics/dr.-mohammad-monir-uddin.html) | [**Mohammad Monirujjaman Khan**](https://scholar.google.ca/citations?user=Nw3kYSUAAAAJ&hl=en) |
