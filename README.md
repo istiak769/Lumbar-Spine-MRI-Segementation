@@ -14,7 +14,7 @@ You can read the full paper [here](https://arxiv.org/abs/2409.06018).
 ![Labelled Mask vs Predicted Mask](https://github.com/user-attachments/assets/3ee68f69-2f89-427e-94f6-c022073caba3)
 
 IoU: 95.85% | 
-Dice Co-efficient: 97.11
+Dice Co-efficient: 97.11%
 
 ## Authors
 
