@@ -9,6 +9,9 @@ This project focuses on improving lumbar spine segmentation in MRI using advance
 You can read the full paper [here](https://arxiv.org/abs/2409.06018).
 
 ## Results
+![Class Detection](https://github.com/user-attachments/assets/0d96d9a1-93b9-4c11-ad47-822ea5ab0f86)
+![Detailed Performance Analysis](https://github.com/user-attachments/assets/ae445d19-064c-4c2e-a489-f518a891fc06)
+![Labelled Mask vs Predicted Mask](https://github.com/user-attachments/assets/3ee68f69-2f89-427e-94f6-c022073caba3)
 
 IoU: 95.85% | 
 Dice Co-efficient: 97.11
